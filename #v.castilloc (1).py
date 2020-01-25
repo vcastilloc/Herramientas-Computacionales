@@ -7,6 +7,7 @@ for i in range(2, NumberTest):
   break
 if test:
   print("The number is prime")
+  print("impedidos")
   
 
 
